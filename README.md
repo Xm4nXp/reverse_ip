@@ -1,5 +1,4 @@
 # reverse ip  2022
-Buy ? : @Xm4nXp
 
 # Result
 
